@@ -1,0 +1,31 @@
+== Neo4jRubyExamples
+
+Simple examples and use cases using Neo4j graph database in Ruby (JRuby).
+
+== Dependencies
+
+* JRuby
+* neo4j gem
+
+==== Install JRuby
+The easiest way to install JRuby is by using RVM, see http://rvm.beginrescueend.com. Otherwise check: http://kenai.com/projects/jruby/pages/GettingStarted#Installing_JRuby  
+
+==== Install the Neo4j Gem
+
+  jruby -S gem install neo4j
+
+If you are using RVM
+
+  gem install neo4j
+
+== Help & Documentation
+For more information about installing, running and configuring Neo4jRubyExamples
+including a list of known issues and troubleshooting information, 
+refer to: http://wiki.github.com/abhishektiwari/Neo4jRubyExamples/
+
+
+== Authors and copyright
+© 2010 Abhishek Tiwari (abhishek@abhishek-tiwari.com)
+
+The software included in this package is copyrighted freeware
+distributed under the terms and conditions as specified in file LICENSE.
